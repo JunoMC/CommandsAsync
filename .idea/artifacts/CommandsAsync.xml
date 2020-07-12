@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CommandsAsync">
+    <output-path>$PROJECT_DIR$/out/artifacts/CommandsAsync</output-path>
+    <root id="archive" name="CommandsAsync.jar">
+      <element id="module-output" name="CommandsAsync" />
+    </root>
+  </artifact>
+</component>

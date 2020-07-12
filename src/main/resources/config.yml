@@ -1,0 +1,14 @@
+CommandsAsync:
+  commands-package-1:
+    commands:
+      - 'CONSOLE: bc &aĐÂY LÀ THÔNG BÁO GỬI TỚI &f%player% TỪ &cCONSOLE' #lệnh này từ console gửi đến người chơi!
+      - 'OP: fly' #lệnh này là sử dụng 1 lệnh mà chỉ op mới có quyền
+      - 'PLAYER: menu' #như khi 1 người bình thường dùng lệnh! sẽ không dùng được các lệnh của op
+    interval: 300 #interval tính theo giây! 300 giây thực hiện một lần
+
+#  commands-package-2:
+#    commands:
+#      - 'CONSOLE: bc &aĐÂY LÀ THÔNG BÁO GỬI TỚI &f%player% TỪ &cCONSOLE' #lệnh này từ console gửi đến người chơi!
+#      - 'OP: fly' #lệnh này là sử dụng 1 lệnh mà chỉ op mới có quyền
+#      - 'PLAYER: menu' #như khi 1 người bình thường dùng lệnh! sẽ không dùng được các lệnh của op
+#    interval: 300 #interval tính theo giây! 300 giây thực hiện một lần

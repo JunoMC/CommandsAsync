@@ -1,0 +1,16 @@
+name: CommandsAsync
+version: ${project.version}
+main: dev.dauxanh.commandsasync.CommandsAsync
+api-version: 1.13
+authors: [DauXanh]
+
+commands:
+  commandsasync:
+    aliases: [ca, casync]
+
+permissions:
+  ca.*:
+    default: op
+    children:
+      ca.reload:
+        default: false

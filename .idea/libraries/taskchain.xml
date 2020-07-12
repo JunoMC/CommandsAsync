@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="taskchain">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/TaskChain-master.zip!/TaskChain-master/bukkit/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/TaskChain-master.zip!/TaskChain-master/core/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
